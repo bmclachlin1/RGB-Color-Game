@@ -6,7 +6,7 @@ This game is meant to be played using your web browser. Download the source file
 
 Game Instructions:
 
-The Goal of the game is to click the square matching the RGB (Red, Green, Blue) Properties given in the game. If you get it wrong, the square will disapear, and you will be left with one less square to choose from. If you get it right, all squares wwill change to the correct color you picked, in which you can click "play again" to start over the game
+The Goal of the game is to click the square matching the RGB (Red, Green, Blue) Properties given in the game. If you get it wrong, the square will disappear and you will be left with one less square to choose from. If you get it right, all squares will change to the correct color you picked, in which you can click "play again" to start the game over again.
 
 Try seeing how many tries it takes for you to guess the correct color!
 
