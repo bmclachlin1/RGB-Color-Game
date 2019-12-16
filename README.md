@@ -12,4 +12,8 @@ Try seeing how many tries it takes for you to guess the correct color!
 
 The game has two difficulty levels, Easy and Hard in which you can switch between the two by clicking on the buttons Easy and Hard in the game. Easy has 3 squares and Hard has 6 squares.
 
-<img src="/imgs/Hard Mode.JPG">
+<img src="/imgs/Eard Mode.JPG">
+
+<img src="/imgs/Hard mode.JPG">
+
+<img src="/imgs/Win.JPG">
